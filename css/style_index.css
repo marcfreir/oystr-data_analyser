@@ -1,0 +1,18 @@
+/*
+    Subject    : DATA ANALYSER – Linguagem PHP (OYSTR)
+    Created on : 31-Oct-2019, 07:56:25 PM
+    Author     : Marcos Freire
+*/
+
+html, body {
+    background: #ececec;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#btngo {
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 16px;
+}
